@@ -177,21 +177,16 @@ Provides Excel import, export, templates, and backup functionality.
 
 <table>
 <tr>
-<td><img src="screenshots/home.png" width="250"/></td>
-<td><img src="screenshots/employees.png" width="250"/></td>
-<td><img src="screenshots/employee-detail.png" width="250"/></td>
+<td><img src="screenshots/splash.jpg" width="150"/></td>
+<td><img src="screenshots/menu.jpg" width="150"/></td>
+<td><img src="screenshots/adminpanel.jpg" width="150"/></td>
+<td><img src="screenshots/statistics.jpg" width="150"/></td>
 </tr>
 
-<tr>
-<td><img src="screenshots/groups.png" width="250"/></td>
-<td><img src="screenshots/statistics.png" width="250"/></td>
-<td><img src="screenshots/admin.png" width="250"/></td>
-</tr>
 </table>
 
 </div>
 
-> 📌 Screenshots will be added as the project presentation is finalized.
 
 ---
 
