@@ -195,7 +195,7 @@ Provides Excel import, export, templates, and backup functionality.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/CodeminTech/EduDirectory.git
 ```
 
 ### 2️⃣ Navigate to the project
