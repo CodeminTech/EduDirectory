@@ -328,15 +328,10 @@ The application is designed to be extensible and can be expanded with additional
 
 ## 👩‍💻 Developer
 
-**Mobina Fetrati**
+**CodemonTech**
 
-💙 Flutter Developer | Mobile Application Developer
+Flutter Developer | Mobile Application Developer
 
-* 🐙 GitHub: [https://github.com/MobinaFetrati](https://github.com/MobinaFetrati)
-
----
-
-## 📄 License
-
-This project is currently developed for portfolio and project demonstration purposes.
+🔗 GitHub:
+GitHub: https://github.com/CodeminTech
 
